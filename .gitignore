@@ -37,6 +37,3 @@ override.tf.json
 terraform.rc
 
 #Personnal Pycharm map
-.idea/
-#test
-#test2
